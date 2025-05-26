@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NJ015
-- 👀 I’m interested in web && application development
+- 👀 I’m interested in web && application development plus ML and DL applications
 - 🎓 I’ve just graduated with a Computer science degree
 - 📫 How to reach me: nourj2005@gmail.com
 
